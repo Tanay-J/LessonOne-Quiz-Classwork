@@ -29,12 +29,18 @@ var questionList = [{
 },{
   question : "Name the popular monument related to Dr. Ambedkar ",
   answer: "deekshabhumi",
+},{
+  question : "Name the current Member of Parliament (Loksabha) from Nagpur? ",
+  answer: "nitin gadkari",
+},{
+  question : "Longest National Highway of the country that passes through Nagpur is? ",
+  answer: "NH7",
 }];
 
 //high scores
 var highScores = {
   name : "Tanay",
-  finalScore : 3,
+  finalScore : 4,
 }
 //for loop to call the function
 for(var i=0;i<questionList.length;i++){
